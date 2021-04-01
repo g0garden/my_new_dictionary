@@ -5,13 +5,7 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAko9bgN93n0n4wIQy-nZt17bGKQr-QgVM",
-    authDomain: "new-words-dictionary.firebaseapp.com",
-    projectId: "new-words-dictionary",
-    storageBucket: "new-words-dictionary.appspot.com",
-    messagingSenderId: "6150827760",
-    appId: "1:6150827760:web:1f1f015335ec76b0b0dc35",
-    measurementId: "G-4X7CY0HCV9"
+   //config 정보 입력
   
 };
 
