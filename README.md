@@ -2,16 +2,21 @@
 
 #### 1.React를 이용한 나만의 단어장 
 #### 2.Redux를 통한 상태관리
-#### 3.BaaS(Backend as a Service) 활용
-- Firebase 
+#### 3.Firebase (Backend as a Service) 활용
+- FireStore
+- Hosting
+- CloudDB
 #### Styled-components 기반 화면 구성
 - 일부 SCSS 사용
 
 
 # 🚩 사용방법
 
-- 단어를 추가합니다. 
-- 추가한 단어를 저장할 수 있습니다. 
+- 단어의 뜻과 예시를 저장할 수 있습니다.  
+- 저장된 단어를 목록에서 확인 할 수 있습니다. 
+
+### DEMO
+https://new-words-dictionary.firebaseapp.com/
 
 
 # 🖥 
